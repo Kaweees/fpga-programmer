@@ -14,6 +14,10 @@ npm create svelte@latest
 npm create svelte@latest my-app
 ```
 
+```sh
+pnpm dlx shadcn-svelte@latest add button
+```
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
